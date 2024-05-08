@@ -47,7 +47,7 @@ Figure -02 HALF Subtractor
  **Developed by: ROSHINI S**
  **RegisterNumber: 212223240142**
 
-**HALF ADDER**
+## HALF ADDER
 
 **Program:**
 
@@ -68,7 +68,7 @@ Figure -02 HALF Subtractor
 ![Screenshot 2024-04-27 103339](https://github.com/Roshini2201/HALF_ADDER_SUBTRACTOR/assets/154105318/e83395d2-67ee-4466-91fa-b12f26f782b6)
 
 
-**HALF SUBTRACTOR**
+## HALF SUBTRACTOR
 
 **Program:**
 
