@@ -1,3 +1,6 @@
+## EX.NO:3
+## DATE:
+
 # HALF_ADDER_SUBTRACTOR
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
@@ -44,12 +47,14 @@ Figure -02 HALF Subtractor
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
- **Developed by: ROSHINI S**
- **RegisterNumber: 212223240142**
 
 ## HALF ADDER
 
 **Program:**
+
+**Developed by: ROSHINI S**
+ **RegisterNumber: 212223240142**
+
 
 ![ex 3 p](https://github.com/Roshini2201/HALF_ADDER_SUBTRACTOR/assets/154105318/1ef3e871-673d-4094-9999-15b6503ca214)
 
